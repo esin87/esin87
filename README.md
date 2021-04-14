@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 [![Esin's GitHub stats](https://github-readme-stats.vercel.app/api?username=esin87&show_icons=true&theme=buefy)](https://github.com/esin87/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esin87)](https://github.com/esin87/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esin87&layout=compact)](https://github.com/esin87/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=esin87.esin87)
