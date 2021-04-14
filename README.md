@@ -26,6 +26,6 @@ I'm a fullstack developer and teacher at General Assembly. I love solving proble
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=esin87&show_icons=true&locale=en&layout=compact&theme=buefy" alt="esin87" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esin87&show_icons=true&locale=en&theme=buefy" alt="esin87" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esin87&show_icons=true&locale=en&theme=buefy&layout=compact" alt="esin87" /></p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=esin87.esin87)
