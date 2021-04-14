@@ -1,7 +1,7 @@
 ![Screen Shot 2021-04-13 at 11 49 59 PM](https://user-images.githubusercontent.com/53010153/114656072-08769400-9cb3-11eb-83d0-fc066297feb1.png)
 
 
-<h3 align=center>Hi there! I'm Esin! 🤓 <h3>
+<h3 align=center>Hi there! I'm Esin! 🤓 </h3>
 
 <p>I'm a fullstack developer and teacher at General Assembly. I love solving problems with code and building applications in JavaScript and Python. When I'm not coding or teaching, you can find me on long walks or on my yoga mat. Thanks for visiting, and I'd love to <a href="https://www.linkedin.com/in/esinsaribudak/" target="_blank">connect</a>! </p>
 
