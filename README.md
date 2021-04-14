@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! I'm Esin 🤓
+
+I'm a fullstack developer and teacher at General Assembly. I love solving problems with code and building applications in JavaScript. 
+
+- 😃 Pronouns: she/her/hers
+- ⚡ Fun fact: Before I learned to code, I taught middle-school math and science. 
+- 📫 How to reach me: [@esincodes](https://twitter.com/esincodes)
 
 <!--
 **esin87/esin87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Esin's GitHub stats](https://github-readme-stats.vercel.app/api?username=esin87)](https://github.com/esin87/github-readme-stats)
