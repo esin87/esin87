@@ -1,6 +1,8 @@
+
+
 ### Hi there! I'm Esin 🤓
 
-I'm a fullstack developer and teacher at General Assembly. I love solving problems with code and building applications in JavaScript. 
+I'm a fullstack developer and teacher at General Assembly. I love solving problems with code and building applications in JavaScript and Python. When I'm not coding or teaching, you can find me on long walks or on my yoga mat. Thanks for visiting, and I'd love to [connect](https://www.linkedin.com/in/esinsaribudak/)! 
 
 - 😃  Pronouns: she/her/hers
 - ⚡  Fun fact: Before I learned to code, I taught middle-school math and science. 
