@@ -3,7 +3,7 @@
 
 <h3 align=center>Hi there! I'm Esin! 🤓 <h3>
 
-I'm a fullstack developer and teacher at General Assembly. I love solving problems with code and building applications in JavaScript and Python. When I'm not coding or teaching, you can find me on long walks or on my yoga mat. Thanks for visiting, and I'd love to [connect](https://www.linkedin.com/in/esinsaribudak/)! 
+<p>I'm a fullstack developer and teacher at General Assembly. I love solving problems with code and building applications in JavaScript and Python. When I'm not coding or teaching, you can find me on long walks or on my yoga mat. Thanks for visiting, and I'd love to <a href="https://www.linkedin.com/in/esinsaribudak/" target="_blank">connect</a>! </p>
 
 - 😃  Pronouns: she/her/hers
 - ⚡  Fun fact: Before I learned to code, I taught middle-school math and science 🧑‍🔬 
