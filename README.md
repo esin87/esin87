@@ -3,7 +3,7 @@
 
 <h3 align=center>Hi there! I'm Esin! 🤓 </h3>
 
-<p>I'm a fullstack developer and teacher at General Assembly. I love solving problems with code and building applications in JavaScript and Python. When I'm not coding or teaching, you can find me on long walks or on my yoga mat. Thanks for visiting, and I'd love to <a href="https://www.linkedin.com/in/esinsaribudak/" target="_blank">connect</a>! </p>
+<p>I'm a fullstack developer and teacher at General Assembly. I love solving problems with code and building applications in JavaScript. When I'm not coding or teaching, you can find me on long walks or on my yoga mat. Thanks for visiting, and I'd love to <a href="https://www.linkedin.com/in/esinsaribudak/" target="_blank">connect</a>! </p> 
 
 - 😃  Pronouns: she/her/hers
 - ⚡  Fun fact: Before I learned to code, I taught middle-school math and science 🧑‍🔬 
@@ -26,5 +26,7 @@ Here are some ideas to get you started:
 
 
 [![Esin's GitHub stats](https://github-readme-stats.vercel.app/api?username=esin87&show_icons=true&theme=buefy)](https://github.com/esin87/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esin87)](https://github.com/esin87/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=esin87.esin87)
