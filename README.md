@@ -31,3 +31,4 @@ I'm a fullstack developer and teacher at General Assembly. I love solving proble
 ***
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=esin87.esin87)
+![Code Wars Badge](https://www.codewars.com/users/esin87/badges/micro)
