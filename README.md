@@ -5,7 +5,7 @@
 
 ## Hi there! I'm Esin! 🤓 
 
-I'm a fullstack developer and teacher at General Assembly. I love solving problems with code and building applications in JavaScript. When I'm not coding or teaching, you can find me on long walks or on my yoga mat. Thanks for visiting!   
+I'm a fullstack developer and teacher. I love solving problems with code and building applications in JavaScript. When I'm not coding or teaching, you can find me on long walks or on my yoga mat. Thanks for visiting!   
 
 <h2 align="left">Connect with me: 🌱</h2>
 <p align="left">
