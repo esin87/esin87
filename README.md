@@ -1,5 +1,3 @@
-<p align="left"> <a href="https://twitter.com/esincodes" target="blank"><img src="https://img.shields.io/twitter/follow/esincodes?logo=twitter&style=for-the-badge" alt="esincodes" /></a> </p>
-
 ![Screen Shot 2021-04-13 at 11 49 59 PM](https://user-images.githubusercontent.com/53010153/114656072-08769400-9cb3-11eb-83d0-fc066297feb1.png)
 
 
@@ -26,9 +24,6 @@ I'm a fullstack developer and teacher. I love solving problems with code and bui
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=esin87&show_icons=true&locale=en&layout=compact&theme=buefy" alt="esin87" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esin87&show_icons=true&locale=en&theme=buefy&layout=compact" alt="esin87" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esin87&" alt="esin87" /></p>
 
 ***
 
