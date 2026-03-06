@@ -22,10 +22,4 @@ I'm a fullstack developer and teacher. I love solving problems with code and bui
 
 <h2>By the Numbers 📊 </h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=esin87&show_icons=true&locale=en&layout=compact&theme=buefy" alt="esin87" /></p>
-
-
-***
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=esin87.esin87)
 [![Code Wars Badge](https://www.codewars.com/users/esin87/badges/micro)](https://www.codewars.com/users/esin87)
